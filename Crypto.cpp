@@ -1,7 +1,5 @@
-// David Prater
-// 11/2/2015
-// Assignment 7
-// Encryption program employing a caesar cipher
+// Author: David Prater
+
 
 #include <iostream>
 #include <string>
